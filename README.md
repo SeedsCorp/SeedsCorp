@@ -1,4 +1,4 @@
-# 🌱 Seeds Corp Platform
+# Seeds Corp Platform
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat&logo=github" alt="Status">
