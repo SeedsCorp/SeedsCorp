@@ -10,7 +10,7 @@
 
 ## 👋 Welcome Developers!
 
-¡Bienvenidos al equipo de desarrollo de Seeds Corp! We're excited to have you on board. Below you'll find essential resources to get started:
+Welcome to the Seeds Corp development team! We're excited to have you on board. Below you'll find essential resources to get started:
 
 🔗 **Quick Links**:
 - [Google Cloud Console](https://console.cloud.google.com) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
@@ -21,7 +21,7 @@
 ---
 
 ## 🌟 Our Vision
-> *"Ser la plataforma líder en soluciones tecnológicas agrícolas, facilitando la gestión eficiente y sostenible de cultivos, y promoviendo el desarrollo integral de los agricultores a través de innovación y formación continua, para mejorar su calidad de vida y competitividad en el mercado."*
+> *"To be the leading platform in agricultural technology solutions, facilitating efficient and sustainable crop management, and promoting comprehensive farmer development through continuous innovation and training, thereby improving their quality of life and market competitiveness."*
 
 ## 🚀 Our Mission
-> *"Integrar tecnologías innovadoras en el sector agrícola para optimizar el manejo de cultivos, generando soluciones que aporten valor y dignifiquen la labor del agricultor. Nuestra misión es ofrecer herramientas que aumenten los rendimientos, reduzcan los impactos ambientales, y mejoren la calidad de vida de los agricultores, fomentando una relación armoniosa entre las personas y su entorno."*
+> *"To integrate innovative technologies into the agricultural sector to optimize crop management, creating solutions that add value and dignify farmers' work. Our mission is to provide tools that increase yields, reduce environmental impacts, and improve farmers' quality of life, fostering a harmonious relationship between people and their environment."*
