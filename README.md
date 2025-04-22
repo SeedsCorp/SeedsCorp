@@ -1,4 +1,4 @@
-# Nōmin AgriTech Platform
+# Nōmin
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat&logo=github" alt="Status">
