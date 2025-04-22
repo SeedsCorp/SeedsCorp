@@ -1,4 +1,4 @@
-# Seeds Corp Platform
+# Nōmin AgriTech Platform
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat&logo=github" alt="Status">
@@ -10,7 +10,7 @@
 
 ## 👋 Welcome Developers!
 
-Welcome to the Seeds Corp development team! We're excited to have you on board. Below you'll find essential resources to get started:
+Welcome to the Nōmin development team! We're excited to have you on board. Below you'll find essential resources to get started:
 
 🔗 **Quick Links**:
 - [Google Cloud Console](https://console.cloud.google.com) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
